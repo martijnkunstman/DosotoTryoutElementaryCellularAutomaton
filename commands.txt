@@ -1,0 +1,3 @@
+./dosato -v
+./dosato hello.to
+./dosato ca.to
